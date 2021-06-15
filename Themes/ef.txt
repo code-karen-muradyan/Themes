@@ -1,0 +1,1 @@
+﻿dotnet ef migrations add initial -c ThemeDbContext -o Infrastructure/Migrations/Base
